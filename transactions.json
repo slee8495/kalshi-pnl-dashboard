@@ -12,12 +12,5 @@
     "amount": 500,
     "name": "Sangho Lee",
     "note": "support life-costs"
-  },
-  {
-    "date": "2026-06-24",
-    "type": "deposit",
-    "amount": 10,
-    "name": "Sangho Lee",
-    "note": "test"
   }
 ]
