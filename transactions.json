@@ -4,13 +4,14 @@
     "type": "deposit",
     "amount": 9000,
     "name": "Sangho Lee",
-    "note": "Initial deposit"
+    "note": "Investment",
+    "entry_fund": 0
   },
   {
     "date": "2026-06-23",
     "type": "withdrawal",
     "amount": 500,
     "name": "Sangho Lee",
-    "note": "support life-costs"
+    "note": "Personal Use"
   }
 ]
