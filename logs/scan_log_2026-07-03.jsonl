@@ -4173,3 +4173,136 @@
 {"type": "monitor", "ticker": "KXBTC15M-26JUL030245-45", "side": "no", "yes_ask": 0.001, "no_ask": 1.0, "secs_to_close": 15, "btc_price": 61572.775, "ts": "2026-07-03T06:44:44.586784+00:00"}
 {"type": "monitor", "ticker": "KXBTC15M-26JUL030245-45", "side": "no", "yes_ask": 0.001, "no_ask": 1.0, "secs_to_close": 9, "btc_price": 61564.915, "ts": "2026-07-03T06:44:50.255805+00:00"}
 {"type": "monitor", "ticker": "KXBTC15M-26JUL030245-45", "side": "no", "yes_ask": 0.001, "no_ask": 1.0, "secs_to_close": 4, "btc_price": 61564.915, "ts": "2026-07-03T06:44:55.914798+00:00"}
+{"type": "result", "ticker": "KXBTC15M-26JUL030245-45", "side": "no", "result": "no", "won": true, "yes_ask_final": 0.001, "no_ask_final": 1.0, "ts": "2026-07-03T06:45:06.590312+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.964, "no_ask": 0.04, "secs_to_close": 299, "btc_price": 61684.445, "ts": "2026-07-03T06:55:00.159628+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.964, "no_ask": 0.04, "secs_to_close": 298, "btc_price": 61684.445, "ts": "2026-07-03T06:55:01.332620+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.964, "no_ask": 0.04, "secs_to_close": 297, "btc_price": 61684.445, "ts": "2026-07-03T06:55:02.486876+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.964, "no_ask": 0.04, "secs_to_close": 296, "btc_price": 61692.575, "ts": "2026-07-03T06:55:03.623556+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.964, "no_ask": 0.04, "secs_to_close": 295, "btc_price": 61692.575, "ts": "2026-07-03T06:55:04.758486+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.964, "no_ask": 0.04, "secs_to_close": 294, "btc_price": 61692.575, "ts": "2026-07-03T06:55:05.901104+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.964, "no_ask": 0.04, "secs_to_close": 292, "btc_price": 61692.575, "ts": "2026-07-03T06:55:07.126690+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.964, "no_ask": 0.04, "secs_to_close": 291, "btc_price": 61692.575, "ts": "2026-07-03T06:55:08.361872+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.966, "no_ask": 0.038, "secs_to_close": 290, "btc_price": 61692.575, "ts": "2026-07-03T06:55:09.628552+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.966, "no_ask": 0.038, "secs_to_close": 289, "btc_price": 61692.575, "ts": "2026-07-03T06:55:10.871415+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.966, "no_ask": 0.038, "secs_to_close": 287, "btc_price": 61684.445, "ts": "2026-07-03T06:55:12.073015+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.966, "no_ask": 0.038, "secs_to_close": 286, "btc_price": 61670.885, "ts": "2026-07-03T06:55:13.287684+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.966, "no_ask": 0.038, "secs_to_close": 285, "btc_price": 61692.575, "ts": "2026-07-03T06:55:14.493031+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.966, "no_ask": 0.038, "secs_to_close": 284, "btc_price": 61670.885, "ts": "2026-07-03T06:55:15.684777+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.966, "no_ask": 0.038, "secs_to_close": 283, "btc_price": 61670.885, "ts": "2026-07-03T06:55:16.897886+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.966, "no_ask": 0.038, "secs_to_close": 281, "btc_price": 61670.895, "ts": "2026-07-03T06:55:18.105309+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.966, "no_ask": 0.038, "secs_to_close": 280, "btc_price": 61670.885, "ts": "2026-07-03T06:55:19.316349+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.967, "no_ask": 0.034, "secs_to_close": 279, "btc_price": 61670.885, "ts": "2026-07-03T06:55:20.537234+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.967, "no_ask": 0.034, "secs_to_close": 278, "btc_price": 61670.895, "ts": "2026-07-03T06:55:21.762238+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.967, "no_ask": 0.034, "secs_to_close": 277, "btc_price": 61670.895, "ts": "2026-07-03T06:55:22.995450+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.967, "no_ask": 0.034, "secs_to_close": 275, "btc_price": 61670.895, "ts": "2026-07-03T06:55:24.197441+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.967, "no_ask": 0.034, "secs_to_close": 274, "btc_price": 61670.895, "ts": "2026-07-03T06:55:25.406302+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.967, "no_ask": 0.034, "secs_to_close": 273, "btc_price": 61669.355, "ts": "2026-07-03T06:55:26.607470+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.967, "no_ask": 0.034, "secs_to_close": 272, "btc_price": 61669.355, "ts": "2026-07-03T06:55:27.819511+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.967, "no_ask": 0.034, "secs_to_close": 271, "btc_price": 61669.355, "ts": "2026-07-03T06:55:29.055743+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.967, "no_ask": 0.034, "secs_to_close": 269, "btc_price": 61669.355, "ts": "2026-07-03T06:55:30.259462+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.962, "no_ask": 0.043, "secs_to_close": 268, "btc_price": 61667.815, "ts": "2026-07-03T06:55:31.492541+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.962, "no_ask": 0.043, "secs_to_close": 267, "btc_price": 61667.815, "ts": "2026-07-03T06:55:32.710111+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.962, "no_ask": 0.043, "secs_to_close": 266, "btc_price": 61667.815, "ts": "2026-07-03T06:55:33.926866+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.962, "no_ask": 0.043, "secs_to_close": 264, "btc_price": 61667.815, "ts": "2026-07-03T06:55:35.133220+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.962, "no_ask": 0.043, "secs_to_close": 263, "btc_price": 61664.105, "ts": "2026-07-03T06:55:36.350622+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.962, "no_ask": 0.043, "secs_to_close": 262, "btc_price": 61664.105, "ts": "2026-07-03T06:55:37.567457+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.962, "no_ask": 0.043, "secs_to_close": 261, "btc_price": 61664.105, "ts": "2026-07-03T06:55:38.768450+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.962, "no_ask": 0.043, "secs_to_close": 260, "btc_price": 61664.105, "ts": "2026-07-03T06:55:39.975440+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.962, "no_ask": 0.043, "secs_to_close": 258, "btc_price": 61664.105, "ts": "2026-07-03T06:55:41.177706+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.962, "no_ask": 0.043, "secs_to_close": 257, "btc_price": 61664.105, "ts": "2026-07-03T06:55:42.389162+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.954, "no_ask": 0.048, "secs_to_close": 256, "btc_price": 61664.105, "ts": "2026-07-03T06:55:43.599559+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.954, "no_ask": 0.048, "secs_to_close": 255, "btc_price": 61664.105, "ts": "2026-07-03T06:55:44.801906+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.954, "no_ask": 0.048, "secs_to_close": 254, "btc_price": 61664.105, "ts": "2026-07-03T06:55:46.010011+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.954, "no_ask": 0.048, "secs_to_close": 252, "btc_price": 61664.105, "ts": "2026-07-03T06:55:47.234720+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.954, "no_ask": 0.048, "secs_to_close": 251, "btc_price": 61664.105, "ts": "2026-07-03T06:55:48.458179+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.954, "no_ask": 0.048, "secs_to_close": 250, "btc_price": 61664.105, "ts": "2026-07-03T06:55:49.661761+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.954, "no_ask": 0.048, "secs_to_close": 249, "btc_price": 61664.105, "ts": "2026-07-03T06:55:50.866569+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.954, "no_ask": 0.048, "secs_to_close": 247, "btc_price": 61664.105, "ts": "2026-07-03T06:55:52.131351+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.954, "no_ask": 0.048, "secs_to_close": 246, "btc_price": 61667.815, "ts": "2026-07-03T06:55:53.341751+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.951, "no_ask": 0.05, "secs_to_close": 245, "btc_price": 61664.105, "ts": "2026-07-03T06:55:54.546712+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.951, "no_ask": 0.05, "secs_to_close": 244, "btc_price": 61664.105, "ts": "2026-07-03T06:55:55.684041+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.951, "no_ask": 0.05, "secs_to_close": 243, "btc_price": 61667.815, "ts": "2026-07-03T06:55:56.824792+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.951, "no_ask": 0.05, "secs_to_close": 242, "btc_price": 61667.815, "ts": "2026-07-03T06:55:57.973126+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.951, "no_ask": 0.05, "secs_to_close": 240, "btc_price": 61668.605, "ts": "2026-07-03T06:55:59.106565+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.951, "no_ask": 0.05, "secs_to_close": 239, "btc_price": 61667.815, "ts": "2026-07-03T06:56:00.244838+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.951, "no_ask": 0.05, "secs_to_close": 238, "btc_price": 61668.605, "ts": "2026-07-03T06:56:01.400791+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.951, "no_ask": 0.05, "secs_to_close": 237, "btc_price": 61666.355, "ts": "2026-07-03T06:56:02.540589+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.951, "no_ask": 0.05, "secs_to_close": 236, "btc_price": 61668.605, "ts": "2026-07-03T06:56:03.677989+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.951, "no_ask": 0.05, "secs_to_close": 235, "btc_price": 61666.355, "ts": "2026-07-03T06:56:04.809650+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.954, "no_ask": 0.05, "secs_to_close": 234, "btc_price": 61668.605, "ts": "2026-07-03T06:56:05.974843+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.954, "no_ask": 0.05, "secs_to_close": 232, "btc_price": 61668.605, "ts": "2026-07-03T06:56:07.102055+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.954, "no_ask": 0.05, "secs_to_close": 231, "btc_price": 61666.355, "ts": "2026-07-03T06:56:08.269035+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.954, "no_ask": 0.05, "secs_to_close": 230, "btc_price": 61666.355, "ts": "2026-07-03T06:56:09.412843+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.954, "no_ask": 0.05, "secs_to_close": 229, "btc_price": 61666.355, "ts": "2026-07-03T06:56:10.541460+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.954, "no_ask": 0.05, "secs_to_close": 228, "btc_price": 61666.355, "ts": "2026-07-03T06:56:11.730952+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.954, "no_ask": 0.05, "secs_to_close": 227, "btc_price": 61666.355, "ts": "2026-07-03T06:56:12.905751+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.954, "no_ask": 0.05, "secs_to_close": 225, "btc_price": 61666.355, "ts": "2026-07-03T06:56:14.038657+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.954, "no_ask": 0.05, "secs_to_close": 224, "btc_price": 61666.355, "ts": "2026-07-03T06:56:15.179789+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.962, "no_ask": 0.04, "secs_to_close": 223, "btc_price": 61666.355, "ts": "2026-07-03T06:56:16.307135+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.962, "no_ask": 0.04, "secs_to_close": 222, "btc_price": 61666.355, "ts": "2026-07-03T06:56:17.485031+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.962, "no_ask": 0.04, "secs_to_close": 221, "btc_price": 61666.355, "ts": "2026-07-03T06:56:18.655194+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.962, "no_ask": 0.04, "secs_to_close": 220, "btc_price": 61666.355, "ts": "2026-07-03T06:56:19.815053+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.962, "no_ask": 0.04, "secs_to_close": 219, "btc_price": 61666.355, "ts": "2026-07-03T06:56:20.948681+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.962, "no_ask": 0.04, "secs_to_close": 217, "btc_price": 61666.355, "ts": "2026-07-03T06:56:22.078999+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.962, "no_ask": 0.04, "secs_to_close": 216, "btc_price": 61666.355, "ts": "2026-07-03T06:56:23.216249+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.962, "no_ask": 0.04, "secs_to_close": 215, "btc_price": 61666.355, "ts": "2026-07-03T06:56:24.362607+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.962, "no_ask": 0.04, "secs_to_close": 214, "btc_price": 61666.355, "ts": "2026-07-03T06:56:25.496533+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.967, "no_ask": 0.034, "secs_to_close": 213, "btc_price": 61668.205, "ts": "2026-07-03T06:56:26.643084+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.967, "no_ask": 0.034, "secs_to_close": 212, "btc_price": 61668.205, "ts": "2026-07-03T06:56:27.796961+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.967, "no_ask": 0.034, "secs_to_close": 211, "btc_price": 61668.215, "ts": "2026-07-03T06:56:28.950266+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.967, "no_ask": 0.034, "secs_to_close": 209, "btc_price": 61668.215, "ts": "2026-07-03T06:56:30.074405+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.967, "no_ask": 0.034, "secs_to_close": 208, "btc_price": 61668.215, "ts": "2026-07-03T06:56:31.238631+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.967, "no_ask": 0.034, "secs_to_close": 207, "btc_price": 61668.215, "ts": "2026-07-03T06:56:32.372985+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.967, "no_ask": 0.034, "secs_to_close": 206, "btc_price": 61668.215, "ts": "2026-07-03T06:56:33.533194+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.967, "no_ask": 0.034, "secs_to_close": 205, "btc_price": 61668.215, "ts": "2026-07-03T06:56:34.675215+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.967, "no_ask": 0.034, "secs_to_close": 204, "btc_price": 61668.215, "ts": "2026-07-03T06:56:35.886480+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.967, "no_ask": 0.034, "secs_to_close": 202, "btc_price": 61668.05, "ts": "2026-07-03T06:56:37.066488+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.971, "no_ask": 0.03, "secs_to_close": 201, "btc_price": 61668.215, "ts": "2026-07-03T06:56:38.224711+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.971, "no_ask": 0.03, "secs_to_close": 200, "btc_price": 61668.215, "ts": "2026-07-03T06:56:39.398170+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.971, "no_ask": 0.03, "secs_to_close": 199, "btc_price": 61668.215, "ts": "2026-07-03T06:56:40.524841+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.971, "no_ask": 0.03, "secs_to_close": 198, "btc_price": 61668.215, "ts": "2026-07-03T06:56:41.695761+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.971, "no_ask": 0.03, "secs_to_close": 197, "btc_price": 61666.375, "ts": "2026-07-03T06:56:42.862061+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.971, "no_ask": 0.03, "secs_to_close": 196, "btc_price": 61668.05, "ts": "2026-07-03T06:56:44.031581+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.971, "no_ask": 0.03, "secs_to_close": 194, "btc_price": 61666.375, "ts": "2026-07-03T06:56:45.173875+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.971, "no_ask": 0.03, "secs_to_close": 193, "btc_price": 61666.375, "ts": "2026-07-03T06:56:46.372653+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.971, "no_ask": 0.03, "secs_to_close": 192, "btc_price": 61666.375, "ts": "2026-07-03T06:56:47.502278+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.991, "no_ask": 0.013, "secs_to_close": 191, "btc_price": 61666.375, "ts": "2026-07-03T06:56:48.672611+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.991, "no_ask": 0.013, "secs_to_close": 189, "btc_price": 61666.375, "ts": "2026-07-03T06:56:50.124672+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.991, "no_ask": 0.013, "secs_to_close": 188, "btc_price": 61666.375, "ts": "2026-07-03T06:56:51.456252+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.991, "no_ask": 0.013, "secs_to_close": 187, "btc_price": 61669.435, "ts": "2026-07-03T06:56:52.797288+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.991, "no_ask": 0.013, "secs_to_close": 185, "btc_price": 61669.435, "ts": "2026-07-03T06:56:54.134455+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.991, "no_ask": 0.013, "secs_to_close": 184, "btc_price": 61666.375, "ts": "2026-07-03T06:56:55.602960+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.991, "no_ask": 0.013, "secs_to_close": 182, "btc_price": 61669.435, "ts": "2026-07-03T06:56:57.174888+00:00"}
+{"type": "scan", "ticker": "KXBTC15M-26JUL030300-00", "yes_ask": 0.991, "no_ask": 0.013, "secs_to_close": 181, "btc_price": 61666.905, "ts": "2026-07-03T06:56:58.761637+00:00"}
+{"type": "entry", "ticker": "KXBTC15M-26JUL030300-00", "side": "yes", "yes_ask": 0.991, "no_ask": 0.013, "secs_to_close": 181, "btc_price": 61666.905, "contracts": 926, "avg_price": 0.9889, "ts": "2026-07-03T06:56:59.108456+00:00"}
+{"type": "monitor", "ticker": "KXBTC15M-26JUL030300-00", "side": "yes", "yes_ask": 0.988, "no_ask": 0.013, "secs_to_close": 174, "btc_price": 61666.905, "ts": "2026-07-03T06:57:05.225436+00:00"}
+{"type": "monitor", "ticker": "KXBTC15M-26JUL030300-00", "side": "yes", "yes_ask": 0.989, "no_ask": 0.012, "secs_to_close": 169, "btc_price": 61661.645, "ts": "2026-07-03T06:57:11.189233+00:00"}
+{"type": "monitor", "ticker": "KXBTC15M-26JUL030300-00", "side": "yes", "yes_ask": 0.989, "no_ask": 0.012, "secs_to_close": 162, "btc_price": 61661.645, "ts": "2026-07-03T06:57:17.264304+00:00"}
+{"type": "monitor", "ticker": "KXBTC15M-26JUL030300-00", "side": "yes", "yes_ask": 0.984, "no_ask": 0.017, "secs_to_close": 156, "btc_price": 61663.395, "ts": "2026-07-03T06:57:23.305906+00:00"}
+{"type": "monitor", "ticker": "KXBTC15M-26JUL030300-00", "side": "yes", "yes_ask": 0.984, "no_ask": 0.017, "secs_to_close": 150, "btc_price": 61663.395, "ts": "2026-07-03T06:57:29.261639+00:00"}
+{"type": "monitor", "ticker": "KXBTC15M-26JUL030300-00", "side": "yes", "yes_ask": 0.988, "no_ask": 0.013, "secs_to_close": 144, "btc_price": 61667.875, "ts": "2026-07-03T06:57:35.250806+00:00"}
+{"type": "monitor", "ticker": "KXBTC15M-26JUL030300-00", "side": "yes", "yes_ask": 0.988, "no_ask": 0.013, "secs_to_close": 138, "btc_price": 61667.875, "ts": "2026-07-03T06:57:41.238654+00:00"}
+{"type": "monitor", "ticker": "KXBTC15M-26JUL030300-00", "side": "yes", "yes_ask": 0.989, "no_ask": 0.012, "secs_to_close": 133, "btc_price": 61667.875, "ts": "2026-07-03T06:57:46.915267+00:00"}
+{"type": "monitor", "ticker": "KXBTC15M-26JUL030300-00", "side": "yes", "yes_ask": 0.989, "no_ask": 0.012, "secs_to_close": 127, "btc_price": 61661.645, "ts": "2026-07-03T06:57:52.536447+00:00"}
+{"type": "monitor", "ticker": "KXBTC15M-26JUL030300-00", "side": "yes", "yes_ask": 0.989, "no_ask": 0.013, "secs_to_close": 122, "btc_price": 61657.325, "ts": "2026-07-03T06:57:58.144554+00:00"}
+{"type": "monitor", "ticker": "KXBTC15M-26JUL030300-00", "side": "yes", "yes_ask": 0.989, "no_ask": 0.013, "secs_to_close": 116, "btc_price": 61657.325, "ts": "2026-07-03T06:58:03.769197+00:00"}
+{"type": "monitor", "ticker": "KXBTC15M-26JUL030300-00", "side": "yes", "yes_ask": 0.989, "no_ask": 0.015, "secs_to_close": 110, "btc_price": 61653.935, "ts": "2026-07-03T06:58:09.398205+00:00"}
+{"type": "monitor", "ticker": "KXBTC15M-26JUL030300-00", "side": "yes", "yes_ask": 0.989, "no_ask": 0.015, "secs_to_close": 105, "btc_price": 61653.935, "ts": "2026-07-03T06:58:15.018780+00:00"}
+{"type": "monitor", "ticker": "KXBTC15M-26JUL030300-00", "side": "yes", "yes_ask": 0.99, "no_ask": 0.011, "secs_to_close": 99, "btc_price": 61653.935, "ts": "2026-07-03T06:58:20.674195+00:00"}
+{"type": "monitor", "ticker": "KXBTC15M-26JUL030300-00", "side": "yes", "yes_ask": 0.99, "no_ask": 0.011, "secs_to_close": 93, "btc_price": 61653.935, "ts": "2026-07-03T06:58:26.318350+00:00"}
+{"type": "monitor", "ticker": "KXBTC15M-26JUL030300-00", "side": "yes", "yes_ask": 0.995, "no_ask": 0.008, "secs_to_close": 88, "btc_price": 61653.935, "ts": "2026-07-03T06:58:31.885368+00:00"}
+{"type": "monitor", "ticker": "KXBTC15M-26JUL030300-00", "side": "yes", "yes_ask": 0.995, "no_ask": 0.006, "secs_to_close": 82, "btc_price": 61653.935, "ts": "2026-07-03T06:58:37.475122+00:00"}
+{"type": "monitor", "ticker": "KXBTC15M-26JUL030300-00", "side": "yes", "yes_ask": 0.995, "no_ask": 0.006, "secs_to_close": 77, "btc_price": 61657.635, "ts": "2026-07-03T06:58:43.100099+00:00"}
+{"type": "monitor", "ticker": "KXBTC15M-26JUL030300-00", "side": "yes", "yes_ask": 0.998, "no_ask": 0.003, "secs_to_close": 71, "btc_price": 61657.635, "ts": "2026-07-03T06:58:48.659530+00:00"}
+{"type": "monitor", "ticker": "KXBTC15M-26JUL030300-00", "side": "yes", "yes_ask": 0.998, "no_ask": 0.003, "secs_to_close": 65, "btc_price": 61657.635, "ts": "2026-07-03T06:58:54.239000+00:00"}
+{"type": "monitor", "ticker": "KXBTC15M-26JUL030300-00", "side": "yes", "yes_ask": 1.0, "no_ask": 0.001, "secs_to_close": 60, "btc_price": 61657.635, "ts": "2026-07-03T06:58:59.861785+00:00"}
+{"type": "monitor", "ticker": "KXBTC15M-26JUL030300-00", "side": "yes", "yes_ask": 1.0, "no_ask": 0.001, "secs_to_close": 54, "btc_price": 61657.635, "ts": "2026-07-03T06:59:05.451478+00:00"}
+{"type": "monitor", "ticker": "KXBTC15M-26JUL030300-00", "side": "yes", "yes_ask": 1.0, "no_ask": 0.001, "secs_to_close": 49, "btc_price": 61657.635, "ts": "2026-07-03T06:59:11.053174+00:00"}
+{"type": "monitor", "ticker": "KXBTC15M-26JUL030300-00", "side": "yes", "yes_ask": 1.0, "no_ask": 0.001, "secs_to_close": 43, "btc_price": 61657.635, "ts": "2026-07-03T06:59:16.662993+00:00"}
+{"type": "monitor", "ticker": "KXBTC15M-26JUL030300-00", "side": "yes", "yes_ask": 1.0, "no_ask": 0.001, "secs_to_close": 37, "btc_price": 61657.635, "ts": "2026-07-03T06:59:22.225862+00:00"}
+{"type": "monitor", "ticker": "KXBTC15M-26JUL030300-00", "side": "yes", "yes_ask": 1.0, "no_ask": 0.001, "secs_to_close": 32, "btc_price": 61657.635, "ts": "2026-07-03T06:59:27.818288+00:00"}
+{"type": "monitor", "ticker": "KXBTC15M-26JUL030300-00", "side": "yes", "yes_ask": 1.0, "no_ask": 0.001, "secs_to_close": 26, "btc_price": 61657.635, "ts": "2026-07-03T06:59:33.449733+00:00"}
+{"type": "monitor", "ticker": "KXBTC15M-26JUL030300-00", "side": "yes", "yes_ask": 1.0, "no_ask": 0.001, "secs_to_close": 21, "btc_price": 61657.635, "ts": "2026-07-03T06:59:39.031949+00:00"}
+{"type": "monitor", "ticker": "KXBTC15M-26JUL030300-00", "side": "yes", "yes_ask": 1.0, "no_ask": 0.001, "secs_to_close": 15, "btc_price": 61641.245, "ts": "2026-07-03T06:59:44.611132+00:00"}
+{"type": "monitor", "ticker": "KXBTC15M-26JUL030300-00", "side": "yes", "yes_ask": 1.0, "no_ask": 0.001, "secs_to_close": 9, "btc_price": 61641.245, "ts": "2026-07-03T06:59:50.242235+00:00"}
+{"type": "monitor", "ticker": "KXBTC15M-26JUL030300-00", "side": "yes", "yes_ask": 1.0, "no_ask": 0.001, "secs_to_close": 4, "btc_price": 61637.295, "ts": "2026-07-03T06:59:55.919908+00:00"}
