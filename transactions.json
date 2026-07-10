@@ -20,7 +20,7 @@
     "amount": 100,
     "name": "Soobin Ahn",
     "note": "Investment",
-    "entry_fund": 11506.1709
+    "entry_fund": 11043.1857
   },
   {
     "date": "2026-06-26",
@@ -36,7 +36,7 @@
     "amount": 50,
     "name": "Roun Lee",
     "note": "Investment",
-    "entry_fund": 11726.9932
+    "entry_fund": 11227.849
   },
   {
     "date": "2026-06-27",
@@ -52,6 +52,6 @@
     "amount": 5000,
     "name": "Kumouk Ahn",
     "note": "Investment",
-    "entry_fund": 13182.9614
+    "entry_fund": 12623.3981
   }
 ]
