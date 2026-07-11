@@ -53,5 +53,12 @@
     "name": "Kumouk Ahn",
     "note": "Investment",
     "entry_fund": 12857.2763
+  },
+  {
+    "date": "2026-07-11",
+    "type": "withdrawal",
+    "amount": 50,
+    "name": "Soobin Ahn",
+    "note": "Other"
   }
 ]
