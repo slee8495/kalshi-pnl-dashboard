@@ -67,5 +67,12 @@
     "amount": 10,
     "name": "Sangho Lee",
     "note": "Other"
+  },
+  {
+    "date": "2026-07-14",
+    "type": "deposit",
+    "amount": 22,
+    "name": "Sangho Lee",
+    "note": "Other"
   }
 ]
