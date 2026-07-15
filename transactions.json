@@ -77,13 +77,6 @@
   },
   {
     "date": "2026-07-15",
-    "type": "withdrawal",
-    "amount": 50,
-    "name": "Sangho Lee",
-    "note": "Other"
-  },
-  {
-    "date": "2026-07-15",
     "type": "deposit",
     "amount": 50,
     "name": "Soobin Ahn",
