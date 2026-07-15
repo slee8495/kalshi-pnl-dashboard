@@ -60,5 +60,14 @@
     "amount": 50,
     "name": "Soobin Ahn",
     "note": "Other"
+  },
+  {
+    "date": "2026-07-15",
+    "type": "transfer",
+    "amount": 50,
+    "from": "Sangho Lee",
+    "to": "Soobin Ahn",
+    "note": "Congrats. Go Argentina!",
+    "entry_fund": 18365.1501
   }
 ]
