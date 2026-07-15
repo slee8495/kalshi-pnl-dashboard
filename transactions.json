@@ -74,5 +74,12 @@
     "amount": 22,
     "name": "Sangho Lee",
     "note": "Other"
+  },
+  {
+    "date": "2026-07-15",
+    "type": "withdrawal",
+    "amount": 20,
+    "name": "Sangho Lee",
+    "note": "Other"
   }
 ]
