@@ -1,0 +1,3 @@
+{"type": "market_result", "ticker": "KXBTC15M-26JUL162000-00", "result": "yes", "ts": "2026-07-17T00:00:12.727248+00:00"}
+{"type": "shadow_result", "strategy": "min5_ask60", "ticker": "KXBTC15M-26JUL162000-00", "side": "yes", "result": "yes", "won": true, "ts": "2026-07-17T00:00:12.727456+00:00"}
+{"type": "shadow_result", "strategy": "favorite_at_open", "ticker": "KXBTC15M-26JUL162000-00", "side": "no", "result": "yes", "won": false, "ts": "2026-07-17T00:00:12.727513+00:00"}
