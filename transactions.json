@@ -69,5 +69,12 @@
     "to": "Soobin Ahn",
     "note": "Congrats. Go Argentina!",
     "entry_fund": 18365.1501
+  },
+  {
+    "date": "2026-07-18",
+    "type": "withdrawal",
+    "amount": 20,
+    "name": "Sangho Lee",
+    "note": "Other"
   }
 ]
