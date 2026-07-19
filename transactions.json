@@ -56,6 +56,14 @@
     "entry_fund": 12773.5705
   },
   {
+    "date": "2026-07-11",
+    "type": "withdrawal",
+    "amount": 50,
+    "name": "Soobin Ahn",
+    "note": "Other",
+    "entry_fund": 17687.5997
+  },
+  {
     "date": "2026-07-15",
     "type": "transfer",
     "amount": 50,
