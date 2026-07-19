@@ -76,13 +76,6 @@
     "date": "2026-07-18",
     "type": "withdrawal",
     "amount": 20,
-    "name": "Soobin Ahn",
-    "note": "Other"
-  },
-  {
-    "date": "2026-07-18",
-    "type": "withdrawal",
-    "amount": 20,
     "name": "Sangho Lee",
     "note": "Other",
     "entry_fund": 15519.4787
