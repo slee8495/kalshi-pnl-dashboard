@@ -103,5 +103,13 @@
     "name": "Sangho Lee",
     "note": "Other",
     "entry_fund": 15833.6989
+  },
+  {
+    "date": "2026-07-20",
+    "type": "deposit",
+    "amount": 1000,
+    "name": "Roun Lee",
+    "note": "Investment",
+    "entry_fund": 16070.1936
   }
 ]
