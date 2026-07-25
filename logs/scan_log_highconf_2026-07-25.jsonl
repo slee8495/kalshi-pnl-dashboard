@@ -68,3 +68,4 @@
 {"type": "entry", "ticker": "KXBTC15M-26JUL251330-30", "side": "yes", "yes_ask": 0.94, "no_ask": 0.062, "secs_to_close": 363.401257, "floor_strike": 64146.03, "contracts": 162, "avg_price": 0.9433, "ts": "2026-07-25T17:23:56.901865+00:00"}
 {"type": "entry", "ticker": "KXBTC15M-26JUL251345-45", "side": "yes", "yes_ask": 0.95, "no_ask": 0.051, "secs_to_close": 206.491042, "floor_strike": 64209.96, "contracts": 160, "avg_price": 0.946, "ts": "2026-07-25T17:41:33.878860+00:00"}
 {"type": "entry", "ticker": "KXBTC15M-26JUL251400-00", "side": "no", "yes_ask": 0.05, "no_ask": 0.951, "secs_to_close": 234.741692, "floor_strike": 64226.69, "contracts": 160, "avg_price": 0.9549, "ts": "2026-07-25T17:56:05.543253+00:00"}
+{"type": "entry", "ticker": "KXBTC15M-26JUL251415-15", "side": "yes", "yes_ask": 0.96, "no_ask": 0.043, "secs_to_close": 428.521964, "floor_strike": 64194.27, "contracts": 156, "avg_price": 0.974, "ts": "2026-07-25T18:07:52.296863+00:00"}
