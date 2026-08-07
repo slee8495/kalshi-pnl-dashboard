@@ -26,3 +26,5 @@
 {"type": "take_profit", "ticker": "KXBTC15M-26AUG070200-00", "side": "yes", "filled": 144.0, "avg_price": "0.9860", "loss_usd": -2.56, "prob_at_tp": 0.988, "trigger_reason": "take_profit", "ts": "2026-08-07T05:55:22.107560+00:00"}
 {"type": "entry", "ticker": "KXBTC15M-26AUG070215-15", "side": "yes", "yes_ask": 0.958, "no_ask": 0.045, "secs_to_close": 150.998246, "floor_strike": 64294.95, "contracts": 437, "avg_price": 0.9622, "ts": "2026-08-07T06:12:29.482010+00:00"}
 {"type": "take_profit", "ticker": "KXBTC15M-26AUG070215-15", "side": "yes", "filled": 437.0, "avg_price": "0.9670", "loss_usd": -0.04, "prob_at_tp": 0.969, "trigger_reason": "take_profit", "ts": "2026-08-07T06:12:40.419944+00:00"}
+{"type": "entry", "ticker": "KXBTC15M-26AUG070230-30", "side": "yes", "yes_ask": 0.951, "no_ask": 0.05, "secs_to_close": 280.495219, "floor_strike": 64337.85, "contracts": 440, "avg_price": 0.9539, "ts": "2026-08-07T06:25:19.900189+00:00"}
+{"type": "take_profit", "ticker": "KXBTC15M-26AUG070230-30", "side": "yes", "filled": 440.0, "avg_price": "0.9750", "loss_usd": -7.22, "prob_at_tp": 0.974, "trigger_reason": "take_profit", "ts": "2026-08-07T06:26:30.851723+00:00"}
