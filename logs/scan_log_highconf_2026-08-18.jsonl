@@ -1,0 +1,2 @@
+{"type": "entry", "ticker": "KXBTC15M-26AUG172015-15", "side": "no", "yes_ask": 0.061, "no_ask": 0.94, "secs_to_close": 441.868373, "floor_strike": 64495.84, "contracts": 144, "avg_price": 0.944, "ts": "2026-08-18T00:07:38.623011+00:00"}
+{"type": "take_profit", "ticker": "KXBTC15M-26AUG172015-15", "side": "no", "filled": 144.0, "avg_price": "0.0250", "loss_usd": -3.69, "prob_at_tp": 0.978, "trigger_reason": "take_profit", "ts": "2026-08-18T00:10:01.478527+00:00"}
