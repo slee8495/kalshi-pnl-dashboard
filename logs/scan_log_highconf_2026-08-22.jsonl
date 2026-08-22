@@ -162,3 +162,5 @@
 {"type": "whale_entry", "ticker": "KXBTC15M-26AUG221215-15", "side": "no", "whale_usd": 421.15, "contracts": 24, "avg_price": 0.04200000000000004, "stake": 2.07180624, "tier_pct": 0.00015, "ts": "2026-08-22T16:13:32.534526+00:00"}
 {"type": "whale_settlement", "ticker": "KXBTC15M-26AUG221215-15", "side": "no", "result": "yes", "won": false, "pnl_usd": -1.0752000000000008, "ts": "2026-08-22T16:15:10.055393+00:00"}
 {"type": "market_settled", "ticker": "KXBTC15M-26AUG221215-15", "result": "yes", "backfilled": true, "ts": "2026-08-22T16:20:01.712897+00:00"}
+{"type": "entry", "ticker": "KXBTC15M-26AUG221230-30", "side": "yes", "yes_ask": 0.939, "no_ask": 0.066, "secs_to_close": 534.719488, "floor_strike": 77043.95, "contracts": 158, "avg_price": 0.94, "ts": "2026-08-22T16:21:05.858707+00:00"}
+{"type": "take_profit", "ticker": "KXBTC15M-26AUG221230-30", "side": "yes", "filled": 158.0, "avg_price": "0.9820", "loss_usd": -5.83, "prob_at_tp": 0.983, "trigger_reason": "take_profit", "ts": "2026-08-22T16:24:26.463294+00:00"}
